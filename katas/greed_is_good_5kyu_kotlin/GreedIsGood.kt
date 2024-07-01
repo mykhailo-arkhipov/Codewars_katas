@@ -1,0 +1,2 @@
+package greed_is_good_5kyu_kotlin
+
